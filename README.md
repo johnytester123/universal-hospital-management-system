@@ -41,31 +41,34 @@ Search: In this section, doctor can search patient with the help of patient name
 Doctor can also update his profile, change the password and recover the password.
 
 Users 
-![image](https://github.com/user-attachments/assets/0c1a97db-2ff4-40e8-a2e5-47cd7ef2e210)
-![image](https://github.com/user-attachments/assets/2354690c-067a-4bea-b1ff-40027bf4c77c)
-![image](https://github.com/user-attachments/assets/05c4c005-5a19-4fcf-b8d0-589c312bd6ed)
-![image](https://github.com/user-attachments/assets/427c3593-f6d4-4cc2-96dd-5624bda31fe5)
-![image](https://github.com/user-attachments/assets/db951f80-c470-4488-8820-6355ace1c52f)
-![image](https://github.com/user-attachments/assets/1ffbc82b-1527-4e40-ace5-8eb370c8f1b2)
-![image](https://github.com/user-attachments/assets/eec8ddf6-e7fa-4c78-874a-e663ecc5b92b)
-![image](https://github.com/user-attachments/assets/a7d6f1d8-60ee-48b4-a3f2-1c8b60392f88)
+![Screenshot 2024-10-30 203958](https://github.com/user-att![Screenshot 2024-10-30 203628](https://github.com/user-attachments/assets/f818c502-3f95-409a-8643-97d547ee7004)
+![Screenshot 2024-10-30 203729](https://github.com/user-attachments/assets/84821e65-8f0f-4c14-85ef-195212f98637)
+![Screenshot 2024-10-30 203904](https://github.com/user-attachments/assets/60df745c-d6c3-4c30-9fb9-c9a8cf832bb6)
+![Screenshot 2024-10-30 203914](https://github.com/user-attachments/assets/288c62cb-20fe-48c7-9a60-8971892894b9)
+![Screenshot 2024-10-30 203928](https://github.com/user-attachments/assets/5e734d68-28e8-4d4b-8bbe-d3c3cbb8e6ab)
+![Screenshot 2024-10-30 203939](https://github.com/user-attachments/assets/8539a0ed-3668-459e-abd4-c60e2640d92c)
+achments/assets/1321d8e8-8ceb-4fb0-8395-e6a29ce8d7dc)
+![Screenshot 2024-10-30 203947](https://github.com/user-attachments/assets/e7fe7219-599d-4d95-9d55-bdf49b98f68a)
+
 
 Doctors 
-![image](https://github.com/user-attachments/assets/3410d42d-ecb0-4f2a-9bde-7e08c0d03965)
-![image](https://github.com/user-attachments/assets/a691924f-d626-4fd1-9d76-3793812bcbc6)
-![image](https://github.com/user-attachments/assets/1589e344-45c2-4119-9bf5-376ed6e99ffb)
-![image](https://github.com/user-attachments/assets/b2481903-e010-4a75-80b5-4b329eeb0fe1)
-![image](https://github.com/user-attachments/assets/1c2e44d4-ab07-4842-abd1-c3acd4ccbb06)
-![image](https://github.com/user-attachments/assets/b5e27942-01fd-4e56-b3c3-6b8ed2491e0b)
-![image](https://github.com/user-attachments/assets/a16e3b03-1fa1-4bf4-b7a6-779af196677f)
+![Screenshot 2024-10-30 204011](https://github.com/user-attachments/assets/8ad97b08-85eb-4dc8-a707-3fb6c3e7214f)
+![Screenshot 2024-10-30 204055](https://github.com/user-attachments/assets/d069519b-807b-4774-857f-4a38b6793809)
+![Screenshot 2024-10-30 204119](https://github.com/user-attachments/assets/217cc78a-b981-4f49-9b7d-d578c6e8ff99)
+![Screenshot 2024-10-30 204135](https://github.com/user-attachments/assets/86c8eaa7-fc87-4f00-a466-a2a84763201b)
+![Screenshot 2024-10-30 204147](https://github.com/user-attachments/assets/563d255d-54ed-4790-855f-577fb4b18530)
+![Screenshot 2024-10-30 204157](https://github.com/user-attachments/assets/7a43268f-8fa3-4bd9-a502-53998ba8087c)
+![Screenshot 2024-10-30 204204](https://github.com/user-attachments/assets/756a4ce5-d620-476d-a44c-53d41c4b3959)
+
 
 Admin
-![image](https://github.com/user-attachments/assets/5bf5988e-1869-4bb1-b825-c1a824083a06)
-![image](https://github.com/user-attachments/assets/2ebbf40f-5878-4f09-8ccb-570a67665af2)
-![image](https://github.com/user-attachments/assets/2c39bf5c-900a-4d04-a07a-a6ed1c042ca5)
-![image](https://github.com/user-attachments/assets/c579e6c7-0039-4db0-bc4b-0587ccbbc69f)
-![image](https://github.com/user-attachments/assets/5990ffc8-74ad-4b4a-b1ae-656d09592346)
-![image](https://github.com/user-attachments/assets/c065d199-a040-4bc2-b145-3fddb92e81e6)
+![Screenshot 2024-10-30 204233](https://github.com/user-attachments/assets/60278800-4ef7-4816-becb-b29a6e3288b6)
+![Screenshot 2024-10-30 204241](https://github.com/user-attachments/assets/c2ec899d-449b-4b37-8128-88376c15f60a)
+![Screenshot 2024-10-30 204250](https://github.com/user-attachments/assets/5f634746-6dd7-4d77-bedf-a03ae56f4569)
+![Screenshot 2024-10-30 204258](https://github.com/user-attachments/assets/7176c71c-6d72-4d5c-9f07-1b050228a324)
+![Screenshot 2024-10-30 204314](https://github.com/user-attachments/assets/2a6ef274-066c-493c-81c6-521edbc881c2)
+![Screenshot 2024-10-30 204324](https://github.com/user-attachments/assets/5f6bbd07-18d8-40a0-9135-134e48f58b3f)
+
 
 Admin: Username: admin Password: 1234
 
