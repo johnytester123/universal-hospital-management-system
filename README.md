@@ -41,13 +41,13 @@ Search: In this section, doctor can search patient with the help of patient name
 Doctor can also update his profile, change the password and recover the password.
 
 Users 
-![Screenshot 2024-10-30 203958](https://github.com/user-att![Screenshot 2024-10-30 203628](https://github.com/user-attachments/assets/f818c502-3f95-409a-8643-97d547ee7004)
+![Screenshot 2024-10-30 203958](https://github.com/user-attachments/assets/1321d8e8-8ceb-4fb0-8395-e6a29ce8d7dc)
+![Screenshot 2024-10-30 203628](https://github.com/user-attachments/assets/f818c502-3f95-409a-8643-97d547ee7004)
 ![Screenshot 2024-10-30 203729](https://github.com/user-attachments/assets/84821e65-8f0f-4c14-85ef-195212f98637)
 ![Screenshot 2024-10-30 203904](https://github.com/user-attachments/assets/60df745c-d6c3-4c30-9fb9-c9a8cf832bb6)
 ![Screenshot 2024-10-30 203914](https://github.com/user-attachments/assets/288c62cb-20fe-48c7-9a60-8971892894b9)
 ![Screenshot 2024-10-30 203928](https://github.com/user-attachments/assets/5e734d68-28e8-4d4b-8bbe-d3c3cbb8e6ab)
 ![Screenshot 2024-10-30 203939](https://github.com/user-attachments/assets/8539a0ed-3668-459e-abd4-c60e2640d92c)
-achments/assets/1321d8e8-8ceb-4fb0-8395-e6a29ce8d7dc)
 ![Screenshot 2024-10-30 203947](https://github.com/user-attachments/assets/e7fe7219-599d-4d95-9d55-bdf49b98f68a)
 
 
